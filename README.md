@@ -6,8 +6,9 @@ When a reference is made to a rule or component from a
 product other than the one being discussed, it is followed
 by an abbreviation to indicate which product is the source
 of that rule or component. The abbreviations are:
-|Abbr|Title|
-|-|-|
+
+| Abbr  	| Title  	|
+|---	|---	|
 |[AH]| The Arkham Horror Board Game|
 |[CotDP]| The Curse of the Dark Pharaoh|
 |[CotDP(R)]| The Curse of the Dark Pharaoh (Revised Edition)|
